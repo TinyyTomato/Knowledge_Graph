@@ -1,4 +1,4 @@
 Knowledge_Graph for Community Research
 
-1、Paper Demo for Knowledge Graph 
+1、Paper Demo for Knowledge Graph \n
 2、Community Query in Heterogeneous Networks System
