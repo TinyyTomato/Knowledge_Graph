@@ -1,0 +1,2178 @@
+[
+    {
+        "name": "Victor C. M. Leung",
+        "score": "96.52941176"
+    },
+    {
+        "name": "Wil M. P. van der Aalst",
+        "score": "77.35294118"
+    },
+    {
+        "name": "Michael I. Jordan",
+        "score": "49.82352941"
+    },
+    {
+        "name": "Michael Wooldridge",
+        "score": "42.58823529"
+    },
+    {
+        "name": "Paul Thompson",
+        "score": "41.64705882"
+    },
+    {
+        "name": "Manuela M. Veloso",
+        "score": "40.82352941"
+    },
+    {
+        "name": "Michael Stonebraker",
+        "score": "39.05882353"
+    },
+    {
+        "name": "Michael Beetz",
+        "score": "34.94117647"
+    },
+    {
+        "name": "Catholijn M. Jonker",
+        "score": "34.88235294"
+    },
+    {
+        "name": "Michael J. Carey",
+        "score": "33.82352941"
+    },
+    {
+        "name": "Michael J. Franklin",
+        "score": "28.94117647"
+    },
+    {
+        "name": "Michael Luck",
+        "score": "28.35294118"
+    },
+    {
+        "name": "Joseph M. Hellerstein",
+        "score": "26.29411765"
+    },
+    {
+        "name": "Michael P. Wellman",
+        "score": "26.0"
+    },
+    {
+        "name": "Michael L. Littman",
+        "score": "25.76470588"
+    },
+    {
+        "name": "Michael Zakharyaschev",
+        "score": "22.35294118"
+    },
+    {
+        "name": "Arnold W. M. Smeulders",
+        "score": "21.82352941"
+    },
+    {
+        "name": "Terry M. Peters",
+        "score": "21.52941176"
+    },
+    {
+        "name": "Arthur W. Toga",
+        "score": "21.35294118"
+    },
+    {
+        "name": "Rosa M. Badia",
+        "score": "19.17647059"
+    },
+    {
+        "name": "Peter M. A. Sloot",
+        "score": "18.94117647"
+    },
+    {
+        "name": "Tom M. Mitchell",
+        "score": "18.82352941"
+    },
+    {
+        "name": "Michael M. Bronstein",
+        "score": "18.47058824"
+    },
+    {
+        "name": "Michael Thielscher",
+        "score": "17.52941176"
+    },
+    {
+        "name": "Alexander M. Bronstein",
+        "score": "17.47058824"
+    },
+    {
+        "name": "M. Brian Blake",
+        "score": "17.23529412"
+    },
+    {
+        "name": "Michael Kifer",
+        "score": "16.23529412"
+    },
+    {
+        "name": "Horst Bischof",
+        "score": "15.94117647"
+    },
+    {
+        "name": "Michael H. Bowling",
+        "score": "15.82352941"
+    },
+    {
+        "name": "Michael Winikoff",
+        "score": "15.35294118"
+    },
+    {
+        "name": "Michael Felsberg",
+        "score": "15.17647059"
+    },
+    {
+        "name": "Michael J. Pazzani",
+        "score": "14.58823529"
+    },
+    {
+        "name": "Arthur H. M. ter Hofstede",
+        "score": "14.29411765"
+    },
+    {
+        "name": "Joel Saltz",
+        "score": "13.88235294"
+    },
+    {
+        "name": "Benoit M. Dawant",
+        "score": "13.05882353"
+    },
+    {
+        "name": "Nicholas R. Jennings",
+        "score": "12.82352941"
+    },
+    {
+        "name": "Moncef Gabbouj",
+        "score": "12.76470588"
+    },
+    {
+        "name": "Frank Wolter",
+        "score": "12.35294118"
+    },
+    {
+        "name": "Michael Fink",
+        "score": "12.23529412"
+    },
+    {
+        "name": "Michael E. Papka",
+        "score": "11.94117647"
+    },
+    {
+        "name": "Max A Viergever",
+        "score": "11.70588235"
+    },
+    {
+        "name": "Thomas S. Huang",
+        "score": "11.29411765"
+    },
+    {
+        "name": "M. Satyanarayanan",
+        "score": "11.29411765"
+    },
+    {
+        "name": "Ian Foster",
+        "score": "10.76470588"
+    },
+    {
+        "name": "Thomas Eiter",
+        "score": "10.58823529"
+    },
+    {
+        "name": "K. Sycara",
+        "score": "10.58823529"
+    },
+    {
+        "name": "Peter Stone",
+        "score": "10.52941176"
+    },
+    {
+        "name": "Stephen M Smith",
+        "score": "10.41176471"
+    },
+    {
+        "name": "Luca Benini",
+        "score": "10.17647059"
+    },
+    {
+        "name": "Laura M. Haas",
+        "score": "10.17647059"
+    },
+    {
+        "name": "Francisco M. Couto",
+        "score": "10.11764706"
+    },
+    {
+        "name": "Latifur Khan",
+        "score": "9.882352941"
+    },
+    {
+        "name": "Norman M. Sadeh",
+        "score": "9.764705882"
+    },
+    {
+        "name": "Geert-Jan M. Kruijff",
+        "score": "9.705882353"
+    },
+    {
+        "name": "Michael Strube",
+        "score": "9.588235294"
+    },
+    {
+        "name": "Daniel Rueckert",
+        "score": "9.470588235"
+    },
+    {
+        "name": "Wiro J. Niessen",
+        "score": "9.470588235"
+    },
+    {
+        "name": "Simon K. Warfield",
+        "score": "9.470588235"
+    },
+    {
+        "name": "Michael Kaminsky",
+        "score": "9.352941176"
+    },
+    {
+        "name": "Alejandro F. Frangi",
+        "score": "9.294117647"
+    },
+    {
+        "name": "J. Kittler",
+        "score": "9.176470588"
+    },
+    {
+        "name": "Nassir Navab",
+        "score": "9.058823529"
+    },
+    {
+        "name": "Gerhard Weikum",
+        "score": "9.0"
+    },
+    {
+        "name": "Samuel Madden",
+        "score": "8.882352941"
+    },
+    {
+        "name": "Janet M. Thornton",
+        "score": "8.764705882"
+    },
+    {
+        "name": "Michael Isard",
+        "score": "8.647058824"
+    },
+    {
+        "name": "Luc Van Gool",
+        "score": "8.470588235"
+    },
+    {
+        "name": "Neda Jahanshad",
+        "score": "8.176470588"
+    },
+    {
+        "name": "Miron Livny",
+        "score": "8.117647059"
+    },
+    {
+        "name": "S\u8305bastien Ourselin",
+        "score": "8.117647059"
+    },
+    {
+        "name": "Greig I. De Zubicaray",
+        "score": "8.117647059"
+    },
+    {
+        "name": "Margaret J. Wright",
+        "score": "8.0"
+    },
+    {
+        "name": "Norman W. Paton",
+        "score": "7.882352941"
+    },
+    {
+        "name": "John Dolan",
+        "score": "7.882352941"
+    },
+    {
+        "name": "David Haussler",
+        "score": "7.764705882"
+    },
+    {
+        "name": "Wolfram Burgard",
+        "score": "7.764705882"
+    },
+    {
+        "name": "David Maier",
+        "score": "7.647058824"
+    },
+    {
+        "name": "Hausi A. M\u7709ller",
+        "score": "7.470588235"
+    },
+    {
+        "name": "John J. Leonard",
+        "score": "7.470588235"
+    },
+    {
+        "name": "David Andersen",
+        "score": "7.470588235"
+    },
+    {
+        "name": "Munindar P. Singh",
+        "score": "7.235294118"
+    },
+    {
+        "name": "Bram van Ginneken",
+        "score": "7.176470588"
+    },
+    {
+        "name": "P L Miller",
+        "score": "7.176470588"
+    },
+    {
+        "name": "Jonathan Gratch",
+        "score": "7.176470588"
+    },
+    {
+        "name": "david j dewitt",
+        "score": "7.117647059"
+    },
+    {
+        "name": "Jack Dongarra",
+        "score": "7.117647059"
+    },
+    {
+        "name": "A. Zisserman",
+        "score": "6.882352941"
+    },
+    {
+        "name": "Michael Arens",
+        "score": "6.823529412"
+    },
+    {
+        "name": "Simon Miles",
+        "score": "6.823529412"
+    },
+    {
+        "name": "Michael T. Cox",
+        "score": "6.764705882"
+    },
+    {
+        "name": "Ioannis Kompatsiaris",
+        "score": "6.647058824"
+    },
+    {
+        "name": "Christopher M. Bishop",
+        "score": "6.647058824"
+    },
+    {
+        "name": "Marcello La Rosa",
+        "score": "6.588235294"
+    },
+    {
+        "name": "gregory provan",
+        "score": "6.470588235"
+    },
+    {
+        "name": "Boudewijn F. van Dongen",
+        "score": "6.352941176"
+    },
+    {
+        "name": "Anders M. Dale",
+        "score": "6.352941176"
+    },
+    {
+        "name": "Erik M. Van Mulligen",
+        "score": "6.294117647"
+    },
+    {
+        "name": "Joseph M. Reinhardt",
+        "score": "6.294117647"
+    },
+    {
+        "name": "J. Michael Cherry",
+        "score": "6.235294118"
+    },
+    {
+        "name": "Holger M. Kienle",
+        "score": "6.235294118"
+    },
+    {
+        "name": "Frank Dignum",
+        "score": "6.176470588"
+    },
+    {
+        "name": "Peter J. Stuckey",
+        "score": "6.117647059"
+    },
+    {
+        "name": "Mark A. Neerincx",
+        "score": "6.058823529"
+    },
+    {
+        "name": "Christos Faloutsos",
+        "score": "5.941176471"
+    },
+    {
+        "name": "G M Shepherd",
+        "score": "5.941176471"
+    },
+    {
+        "name": "Nicholas Ayache",
+        "score": "5.941176471"
+    },
+    {
+        "name": "Sebastian Thrun",
+        "score": "5.882352941"
+    },
+    {
+        "name": "Schahram Dustdar",
+        "score": "5.823529412"
+    },
+    {
+        "name": "Geoff V. Merrett",
+        "score": "5.823529412"
+    },
+    {
+        "name": "Mark A. Musen",
+        "score": "5.823529412"
+    },
+    {
+        "name": "Gregory R. Ganger",
+        "score": "5.647058824"
+    },
+    {
+        "name": "Roland Siegwart",
+        "score": "5.529411765"
+    },
+    {
+        "name": "Michael zur Muehlen",
+        "score": "5.470588235"
+    },
+    {
+        "name": "Andrew McCallum",
+        "score": "5.352941176"
+    },
+    {
+        "name": "Katie L. Mcmahon",
+        "score": "5.352941176"
+    },
+    {
+        "name": "Mateo Valero",
+        "score": "5.352941176"
+    },
+    {
+        "name": "Phillip B. Gibbons",
+        "score": "5.294117647"
+    },
+    {
+        "name": "Julia A Schnabel",
+        "score": "5.294117647"
+    },
+    {
+        "name": "Klaus-Robert M\u7709ller",
+        "score": "5.235294118"
+    },
+    {
+        "name": "Anant Madabhushi",
+        "score": "5.235294118"
+    },
+    {
+        "name": "Alberto L. Sangiovanni-Vincentelli",
+        "score": "5.235294118"
+    },
+    {
+        "name": "Steven J. M. Jones",
+        "score": "5.176470588"
+    },
+    {
+        "name": "Jos\u8305 E. Moreira",
+        "score": "5.117647059"
+    },
+    {
+        "name": "Stephanie Seneff",
+        "score": "5.117647059"
+    },
+    {
+        "name": "Gareth J. F. Jones",
+        "score": "5.117647059"
+    },
+    {
+        "name": "Herbert M Sauro",
+        "score": "5.058823529"
+    },
+    {
+        "name": "Martial Hebert",
+        "score": "5.0"
+    },
+    {
+        "name": "C. Lee Giles",
+        "score": "5.0"
+    },
+    {
+        "name": "Khan M. Iftekharuddin",
+        "score": "5.0"
+    },
+    {
+        "name": "Abdul Sattar",
+        "score": "5.0"
+    },
+    {
+        "name": "Jan Mendling",
+        "score": "4.941176471"
+    },
+    {
+        "name": "Stefan Woltran",
+        "score": "4.882352941"
+    },
+    {
+        "name": "Marleen de Bruijne",
+        "score": "4.882352941"
+    },
+    {
+        "name": "Nikil D. Dutt",
+        "score": "4.882352941"
+    },
+    {
+        "name": "Thomas E. Nichols",
+        "score": "4.882352941"
+    },
+    {
+        "name": "Tim Kraska",
+        "score": "4.823529412"
+    },
+    {
+        "name": "Wolfgang E. Nagel",
+        "score": "4.823529412"
+    },
+    {
+        "name": "Bo Xing",
+        "score": "4.823529412"
+    },
+    {
+        "name": "Joachim Hornegger",
+        "score": "4.823529412"
+    },
+    {
+        "name": "hermann ney",
+        "score": "4.823529412"
+    },
+    {
+        "name": "Francky Catthoor",
+        "score": "4.764705882"
+    },
+    {
+        "name": "Edmund H. Durfee",
+        "score": "4.764705882"
+    },
+    {
+        "name": "Daniel S. Katz",
+        "score": "4.647058824"
+    },
+    {
+        "name": "M. Bernardine Dias",
+        "score": "4.647058824"
+    },
+    {
+        "name": "Daniel M. Reeves",
+        "score": "4.588235294"
+    },
+    {
+        "name": "Philip H.  S. Torr",
+        "score": "4.588235294"
+    },
+    {
+        "name": "Marilyn A Walker",
+        "score": "4.529411765"
+    },
+    {
+        "name": "Christos Davatzikos",
+        "score": "4.470588235"
+    },
+    {
+        "name": "E Birney",
+        "score": "4.470588235"
+    },
+    {
+        "name": "Barbara M. Smith",
+        "score": "4.470588235"
+    },
+    {
+        "name": "Derek L G Hill",
+        "score": "4.470588235"
+    },
+    {
+        "name": "Andrew Blake",
+        "score": "4.411764706"
+    },
+    {
+        "name": "Peer Bork",
+        "score": "4.411764706"
+    },
+    {
+        "name": "Nicholas G. Martin",
+        "score": "4.411764706"
+    },
+    {
+        "name": "Vivek De",
+        "score": "4.294117647"
+    },
+    {
+        "name": "Jean Bacon",
+        "score": "4.235294118"
+    },
+    {
+        "name": "James C. Gee",
+        "score": "4.235294118"
+    },
+    {
+        "name": "Virginia Dignum",
+        "score": "4.176470588"
+    },
+    {
+        "name": "Bennett A. Landman",
+        "score": "4.176470588"
+    },
+    {
+        "name": "John Mylopoulos",
+        "score": "4.176470588"
+    },
+    {
+        "name": "Marc Modat",
+        "score": "4.176470588"
+    },
+    {
+        "name": "Rolf Niedermeier",
+        "score": "4.176470588"
+    },
+    {
+        "name": "Hongfang Liu",
+        "score": "4.176470588"
+    },
+    {
+        "name": "Michael L Hines",
+        "score": "4.117647059"
+    },
+    {
+        "name": "Hucka M",
+        "score": "4.117647059"
+    },
+    {
+        "name": "Eric K. Clemons",
+        "score": "4.117647059"
+    },
+    {
+        "name": "L. Darrell Whitley",
+        "score": "4.058823529"
+    },
+    {
+        "name": "Manish Gupta",
+        "score": "4.058823529"
+    },
+    {
+        "name": "Mart\u94c6n Abadi",
+        "score": "4.058823529"
+    },
+    {
+        "name": "Simon Parsons",
+        "score": "4.058823529"
+    },
+    {
+        "name": "Enrique J. G\u8d38mez",
+        "score": "4.058823529"
+    },
+    {
+        "name": "M. Scott Marshall",
+        "score": "4.0"
+    },
+    {
+        "name": "Kei-Hoi Cheung",
+        "score": "4.0"
+    },
+    {
+        "name": "Joseph R. Cavallaro",
+        "score": "3.941176471"
+    },
+    {
+        "name": "David Culler",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Massimiliano de Leoni",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Stefano Ceri",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Susan M. Bridges",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Alfonso Valencia",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Pradeep K. Dubey",
+        "score": "3.941176471"
+    },
+    {
+        "name": "Stefan M. Wild",
+        "score": "3.882352941"
+    },
+    {
+        "name": "Alon Y. Halevy",
+        "score": "3.882352941"
+    },
+    {
+        "name": "Srinivasan Seshan",
+        "score": "3.882352941"
+    },
+    {
+        "name": "Ant\u8d38nio M. G. Pinheiro",
+        "score": "3.823529412"
+    },
+    {
+        "name": "Alok N. Choudhary",
+        "score": "3.823529412"
+    },
+    {
+        "name": "G\u8c29bor Sz\u8305kely",
+        "score": "3.764705882"
+    },
+    {
+        "name": "Venkatram Vishwanath",
+        "score": "3.764705882"
+    },
+    {
+        "name": "M Diekhans",
+        "score": "3.764705882"
+    },
+    {
+        "name": "Justo Puerto",
+        "score": "3.764705882"
+    },
+    {
+        "name": "Nicholas J. Belkin",
+        "score": "3.764705882"
+    },
+    {
+        "name": "Naren Ramakrishnan",
+        "score": "3.705882353"
+    },
+    {
+        "name": "Luca Maria Gambardella",
+        "score": "3.705882353"
+    },
+    {
+        "name": "Adrian Perrig",
+        "score": "3.705882353"
+    },
+    {
+        "name": "Poul M. F. Nielsen",
+        "score": "3.647058824"
+    },
+    {
+        "name": "Henning Hermjakob",
+        "score": "3.647058824"
+    },
+    {
+        "name": "Mitra Subhasish",
+        "score": "3.647058824"
+    },
+    {
+        "name": "Karl M. G\u679aschka",
+        "score": "3.647058824"
+    },
+    {
+        "name": "Marian Bubak",
+        "score": "3.647058824"
+    },
+    {
+        "name": "Stephen J. Roberts",
+        "score": "3.588235294"
+    },
+    {
+        "name": "Birgitta K\u679anig-Ries",
+        "score": "3.588235294"
+    },
+    {
+        "name": "Vasileios Mezaris",
+        "score": "3.588235294"
+    },
+    {
+        "name": "Sarit Kraus",
+        "score": "3.588235294"
+    },
+    {
+        "name": "Dirk Fahland",
+        "score": "3.529411765"
+    },
+    {
+        "name": "Toby Walsh",
+        "score": "3.529411765"
+    },
+    {
+        "name": "Anastassia Ailamaki",
+        "score": "3.529411765"
+    },
+    {
+        "name": "Yannis E. Ioannidis",
+        "score": "3.529411765"
+    },
+    {
+        "name": "Steven M. Gallo",
+        "score": "3.470588235"
+    },
+    {
+        "name": "Diederik M. Roijers",
+        "score": "3.470588235"
+    },
+    {
+        "name": "W J Kent",
+        "score": "3.470588235"
+    },
+    {
+        "name": "A. S. Tanenbaum",
+        "score": "3.470588235"
+    },
+    {
+        "name": "Bronis R. de Supinski",
+        "score": "3.470588235"
+    },
+    {
+        "name": "Jon M. Peha",
+        "score": "3.470588235"
+    },
+    {
+        "name": "Fahad Shahbaz Khan",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Philip M. Papadopoulos",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Daniel Keysers",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Shuai Weng",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Oren Etzioni",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Yevgeniy Vorobeychik",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Andrew Y. Ng",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Steffen Staab",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Deborah L. McGuinness",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Manish Parashar",
+        "score": "3.411764706"
+    },
+    {
+        "name": "C\u8305sar Herv\u8c29s-Mart\u94c6nez",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Martin Styner",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Kurt Geihs",
+        "score": "3.411764706"
+    },
+    {
+        "name": "Norha M. Villegas",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Amit P. Sheth",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Milind Tambe",
+        "score": "3.352941176"
+    },
+    {
+        "name": "W. Bruce Croft",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Michael Sioutis",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Jianke Zhu",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Ian Miguel",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Carmel Domshlak",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Nasir Rajpoot",
+        "score": "3.352941176"
+    },
+    {
+        "name": "Joseph A. Insley",
+        "score": "3.294117647"
+    },
+    {
+        "name": "R Durbin",
+        "score": "3.294117647"
+    },
+    {
+        "name": "Cristian Lorenz",
+        "score": "3.294117647"
+    },
+    {
+        "name": "Michael J. Witbrock",
+        "score": "3.294117647"
+    },
+    {
+        "name": "Gustavo Alonso",
+        "score": "3.294117647"
+    },
+    {
+        "name": "Nicholas Roy",
+        "score": "3.235294118"
+    },
+    {
+        "name": "Tao Jiang",
+        "score": "3.235294118"
+    },
+    {
+        "name": "Saif M. Mohammad",
+        "score": "3.235294118"
+    },
+    {
+        "name": "Paul W Sternberg",
+        "score": "3.176470588"
+    },
+    {
+        "name": "Michael Benisch",
+        "score": "3.176470588"
+    },
+    {
+        "name": "Carole Goble",
+        "score": "3.176470588"
+    },
+    {
+        "name": "D Louis Collins",
+        "score": "3.176470588"
+    },
+    {
+        "name": "Rajeev Thakur",
+        "score": "3.176470588"
+    },
+    {
+        "name": "Bernt Schiele",
+        "score": "3.176470588"
+    },
+    {
+        "name": "Michael Montemerlo",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Nick C Fox",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Gail Binkley",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Arnav Jhala",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Ross D. King",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Jeffrey D. Ullman",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Marin Litoiu",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Edith Elkind",
+        "score": "3.117647059"
+    },
+    {
+        "name": "Yuriy Brun",
+        "score": "3.058823529"
+    },
+    {
+        "name": "H. V. Jagadish",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Atsuo Takanishi",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Pedro C. Diniz",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Nathan S. Netanyahu",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Gary E. Christensen",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Houqiang Li",
+        "score": "3.058823529"
+    },
+    {
+        "name": "Jeffrey S. Rosenschein",
+        "score": "3.0"
+    },
+    {
+        "name": "Hans-Michael M\u7709ller",
+        "score": "3.0"
+    },
+    {
+        "name": "Martin Rajchl",
+        "score": "3.0"
+    },
+    {
+        "name": "Maarten de Rijke",
+        "score": "3.0"
+    },
+    {
+        "name": "Roger K. Moore",
+        "score": "3.0"
+    },
+    {
+        "name": "Frank van Harmelen",
+        "score": "3.0"
+    },
+    {
+        "name": "Eva M. van Rikxoort",
+        "score": "2.941176471"
+    },
+    {
+        "name": "John Prager",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Mark Riedl",
+        "score": "2.941176471"
+    },
+    {
+        "name": "R M Kuhn",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Raghu Ramakrishnan",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Jim Gray",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Eric Horvitz",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Dan Wu",
+        "score": "2.941176471"
+    },
+    {
+        "name": "P Flicek",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Fabio Rinaldi",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Eric A Hoffman",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Anthony P. Reeves",
+        "score": "2.941176471"
+    },
+    {
+        "name": "Xavier Franch",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Michael Wu",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Alan R. Dennis",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Michael Y. Galperin",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Christine A. Orengo",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Jesus Labarta",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Rick L. Stevens",
+        "score": "2.882352941"
+    },
+    {
+        "name": "Philip A. Bernstein",
+        "score": "2.823529412"
+    },
+    {
+        "name": "Richard T. Watson",
+        "score": "2.823529412"
+    },
+    {
+        "name": "Cees de Laat",
+        "score": "2.823529412"
+    },
+    {
+        "name": "Anthony Stentz",
+        "score": "2.823529412"
+    },
+    {
+        "name": "Federico M. Sukno",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Jan Peters",
+        "score": "2.764705882"
+    },
+    {
+        "name": "A REISS",
+        "score": "2.764705882"
+    },
+    {
+        "name": "R\u8305 Christopher",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Artur S. D'avila Garcez",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Thomas Hofmann",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Gregor Engels",
+        "score": "2.764705882"
+    },
+    {
+        "name": "John M. Hancock",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Shimon Whiteson",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Betty H. C. Cheng",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Leslie Pack Kaelbling",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Stephen Cranefield",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Philip Heidelberger",
+        "score": "2.764705882"
+    },
+    {
+        "name": "Hans Tompits",
+        "score": "2.705882353"
+    },
+    {
+        "name": "David Botstein",
+        "score": "2.705882353"
+    },
+    {
+        "name": "Talal Rahwan",
+        "score": "2.705882353"
+    },
+    {
+        "name": "Rolf Apweiler",
+        "score": "2.705882353"
+    },
+    {
+        "name": "Joost van de Weijer",
+        "score": "2.705882353"
+    },
+    {
+        "name": "Rocco A. Servedio",
+        "score": "2.705882353"
+    },
+    {
+        "name": "Simone Paolo Ponzetto",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Moe Thandar Wynn",
+        "score": "2.647058824"
+    },
+    {
+        "name": "D Karolchik",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Lincoln D Stein",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Peter T. Fox",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Ivo Wolf",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Freek Stulp",
+        "score": "2.647058824"
+    },
+    {
+        "name": "John H. L. Hansen",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Karin Verspoor",
+        "score": "2.647058824"
+    },
+    {
+        "name": "Dietmar Jannach",
+        "score": "2.588235294"
+    },
+    {
+        "name": "William Stafford Noble",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Raymond T. Ngt",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Maurice Bruynooghe",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Henri E. Bal",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Joanna M Wardlaw",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Alan Evans",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Noam Nisan",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Thomas Krennwallner",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Ralph R. Martin",
+        "score": "2.588235294"
+    },
+    {
+        "name": "Hiroaki Kitano",
+        "score": "2.529411765"
+    },
+    {
+        "name": "M Schuster",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Sonia Chernova",
+        "score": "2.529411765"
+    },
+    {
+        "name": "G Sherlock",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Joseph E. Gonzalez",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Matei Zaharia",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Arkadii M. Slinko",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Martin L. Kersten",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Pedro Domingos",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Danny Weyns",
+        "score": "2.529411765"
+    },
+    {
+        "name": "M L Ginsberg",
+        "score": "2.529411765"
+    },
+    {
+        "name": "M Stefanelli",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Ernesto Damiani",
+        "score": "2.529411765"
+    },
+    {
+        "name": "Yolanda Gil",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Eurie L. Hong",
+        "score": "2.470588235"
+    },
+    {
+        "name": "David W. Aha",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Carlos Delgado Kloos",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Eduard H. Hovy",
+        "score": "2.470588235"
+    },
+    {
+        "name": "David De Roure",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Margo Seltzer",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Cristina Silvano",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Nevin .L Zhang",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Tom Vercauteren",
+        "score": "2.470588235"
+    },
+    {
+        "name": "Nathan R. Sturtevant",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Mark Dredze",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Joos C. A. M. Buijs",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Christopher K. I. Williams",
+        "score": "2.411764706"
+    },
+    {
+        "name": "William Whittaker",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Jan Vanthienen",
+        "score": "2.411764706"
+    },
+    {
+        "name": "John Shawe-Taylor",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Ian Horrocks",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Diego Calvanese",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Bernhard Nebel",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Tobias Hildenbrand",
+        "score": "2.411764706"
+    },
+    {
+        "name": "Nanja J. J. M. Smets",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Eduardo B. Fernandez",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Tuan Pham",
+        "score": "2.352941176"
+    },
+    {
+        "name": "D Smedley",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Christoph M. Flath",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Ronald Veldema",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Karl Tuyls",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Kimberly Van Auken",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Serge Abiteboul",
+        "score": "2.352941176"
+    },
+    {
+        "name": "polina golland",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Moshe Y. Vardi",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Dimitra Simeonidou",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Mathias Prokop",
+        "score": "2.352941176"
+    },
+    {
+        "name": "et al.",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Andreas Bender",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Xavier Pennec",
+        "score": "2.352941176"
+    },
+    {
+        "name": "William E. Walsh",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Emilio Frazzoli",
+        "score": "2.352941176"
+    },
+    {
+        "name": "M. Anis",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Sridha Sridharan",
+        "score": "2.352941176"
+    },
+    {
+        "name": "Dennis Koelma",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Stacia Engel",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Casey M Bergman",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Kevin M. Carter",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Selina S. Dwight",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Georg Gottlob",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Bertram Lud\u76f2scher",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Jes\u7164s M de la Cruz",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Martin Schulz",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Jean-Yves Tourneret",
+        "score": "2.294117647"
+    },
+    {
+        "name": "Kara Dolinski",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Jessica A. Turner",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Andreas Prlic",
+        "score": "2.235294118"
+    },
+    {
+        "name": "John Shalf",
+        "score": "2.235294118"
+    },
+    {
+        "name": "M. Six Silberman",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Grigoris Antoniou",
+        "score": "2.235294118"
+    },
+    {
+        "name": "A S Zweig",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Fabrizio Maria Maggi",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Nicolas Le Nov\u732bre",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Adam Belloum",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Kathrin Klamroth",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Pradip Bose",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Man-Wai Mak",
+        "score": "2.235294118"
+    },
+    {
+        "name": "David C. Parkes",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Victor Lesser",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Hunter P J",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Christof Weinhardt",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Max A. Viergever",
+        "score": "2.235294118"
+    },
+    {
+        "name": "Janan T. Eppig",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Hendrik Zender",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Maria C. Costanzo",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Giorgio Metta",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Lynette Hirschman",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Jeffrey S. Dean",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Zhiyong Lu",
+        "score": "2.176470588"
+    },
+    {
+        "name": "E. Huedo",
+        "score": "2.176470588"
+    },
+    {
+        "name": "David C. Van Essen",
+        "score": "2.176470588"
+    },
+    {
+        "name": "David S. Wishart",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Umberto Castellani",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Wolfgang Ecker",
+        "score": "2.176470588"
+    },
+    {
+        "name": "M. Elena Hernando",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Dan Roth",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Jalal Fadili",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Rudi Studer",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Allan Hanbury",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Jiebo Luo",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Achim Streit",
+        "score": "2.176470588"
+    },
+    {
+        "name": "J. Abraham",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Hani Hagras",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Mikel L. Forcada",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Carlos Guestrin",
+        "score": "2.176470588"
+    },
+    {
+        "name": "Vitaly Lagoon",
+        "score": "2.117647059"
+    },
+    {
+        "name": "David Kennedy",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Mark Hereld",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Shawn Bowers",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Thomas R. Furlani",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Xavier Martorell",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Christopher Jefferson",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Henning M\u7709ller",
+        "score": "2.117647059"
+    },
+    {
+        "name": "K R Rosenbloom",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Peter Bailis",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Rakesh Agrawal",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Judith A. Blake",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Daphne Koller",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Shane C. Burgess",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Alain Destexhe",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Mounia Lalmas",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Luc Moreau",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Brian B. Avants",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Joao Marques-Silva",
+        "score": "2.117647059"
+    },
+    {
+        "name": "\u812bscar Corcho",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Joseph S. Valacich",
+        "score": "2.117647059"
+    },
+    {
+        "name": "Piotr Faliszewski",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Casimir Kulikowski",
+        "score": "2.058823529"
+    },
+    {
+        "name": "W. John Wilbur",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Lu\u94c6s C. Lamb",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Diogo R. Ferreira",
+        "score": "2.058823529"
+    },
+    {
+        "name": "H Clawson",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Robert M MacCallum",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Heidi Johansen-Berg",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Julio Collado-vides",
+        "score": "2.058823529"
+    },
+    {
+        "name": "G P Barber",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Oswaldo Trelles",
+        "score": "2.058823529"
+    },
+    {
+        "name": "J\u7709rgen Schmidhuber",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Udo Hahn",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Heinrich Meyr",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Reagan Moore",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Gregor Von Laszewski",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Ben Glocker",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Chitta Baral",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Dawn Song",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Wamberto Weber Vasconcelos",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Arnon Amir",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Danelljan Martin",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Bonnie J. Dorr",
+        "score": "2.058823529"
+    },
+    {
+        "name": "Rama Balakrishnan",
+        "score": "2.0"
+    },
+    {
+        "name": "B J Raney",
+        "score": "2.0"
+    },
+    {
+        "name": "Andrew A. Chien",
+        "score": "2.0"
+    },
+    {
+        "name": "Cuong Tran",
+        "score": "2.0"
+    },
+    {
+        "name": "Robert W. Wisniewski",
+        "score": "2.0"
+    },
+    {
+        "name": "Alonzo Kelly",
+        "score": "2.0"
+    },
+    {
+        "name": "Noel E. O'Connor",
+        "score": "2.0"
+    },
+    {
+        "name": "David C. Glahn",
+        "score": "2.0"
+    },
+    {
+        "name": "Ewa Deelman",
+        "score": "2.0"
+    },
+    {
+        "name": "Paola Inverardi",
+        "score": "2.0"
+    },
+    {
+        "name": "Juancarlos Chan",
+        "score": "2.0"
+    },
+    {
+        "name": "Georg Langs",
+        "score": "2.0"
+    },
+    {
+        "name": "J. Andrew Bagnell",
+        "score": "2.0"
+    },
+    {
+        "name": "T J P Hubbard",
+        "score": "2.0"
+    },
+    {
+        "name": "Russell Greiner",
+        "score": "2.0"
+    },
+    {
+        "name": "Jie Chen",
+        "score": "2.0"
+    },
+    {
+        "name": "Jason Leigh",
+        "score": "2.0"
+    },
+    {
+        "name": "Ian P. Gent",
+        "score": "2.0"
+    },
+    {
+        "name": "Theo Ungerer",
+        "score": "2.0"
+    },
+    {
+        "name": "Mark H. Burstein",
+        "score": "2.0"
+    },
+    {
+        "name": "Antonis C. Kakas",
+        "score": "2.0"
+    },
+    {
+        "name": "Michael Fairhurst",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Richard McClatchey",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Frank Bergmann",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Josep Carmona",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Bjoern H Menze",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Thomas G. Dietterich",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Kristian Rother",
+        "score": "1.941176471"
+    },
+    {
+        "name": "D. Joseph",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Serafim Batzoglou",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Giorgio A. Ascoli",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Enrico Franconi",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Paulo F. Pires",
+        "score": "1.941176471"
+    },
+    {
+        "name": "David Leeuwen",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Arjan Kuijper",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Dragomir Radev",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Djoerd Hiemstra",
+        "score": "1.941176471"
+    },
+    {
+        "name": "R. Manmatha",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Paul Groth",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Pedro G\u8d38mez Vilda",
+        "score": "1.941176471"
+    },
+    {
+        "name": "Cliff Young",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Tran Cao Son",
+        "score": "1.882352941"
+    },
+    {
+        "name": "R A Harte",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Thomas Mauthner",
+        "score": "1.882352941"
+    },
+    {
+        "name": "James F. Brinkley",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Melissa S. Cline",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Wendell D. Jones",
+        "score": "1.882352941"
+    },
+    {
+        "name": "R. P. Jagadeesh Chandra Bose",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Rudy Hirschheim",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Yoshua Bengio",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Michael C Schatz",
+        "score": "1.882352941"
+    },
+    {
+        "name": "ebroul izquierdo",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Carla P. Gomes",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Brahim Hnich",
+        "score": "1.882352941"
+    },
+    {
+        "name": "William D. Gropp",
+        "score": "1.882352941"
+    },
+    {
+        "name": "G BARKER",
+        "score": "1.882352941"
+    },
+    {
+        "name": "dietrich rebholzschuhmann",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Tom Rodden",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Stefan Szeider",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Erwin Laure",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Paul E. Rybski",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Aaron D. Ames",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Twan Basten",
+        "score": "1.882352941"
+    },
+    {
+        "name": "Sven Koenig",
+        "score": "1.882352941"
+    },
+    {
+        "name": "David E. Shaw",
+        "score": "1.882352941"
+    }
+]

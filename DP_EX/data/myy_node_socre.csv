@@ -1,0 +1,545 @@
+score,name
+96.52941176,Victor C. M. Leung
+77.35294118,Wil M. P. van der Aalst
+49.82352941,Michael I. Jordan
+42.58823529,Michael Wooldridge
+41.64705882,Paul Thompson
+40.82352941,Manuela M. Veloso
+39.05882353,Michael Stonebraker
+34.94117647,Michael Beetz
+34.88235294,Catholijn M. Jonker
+33.82352941,Michael J. Carey
+28.94117647,Michael J. Franklin
+28.35294118,Michael Luck
+26.29411765,Joseph M. Hellerstein
+26.0,Michael P. Wellman
+25.76470588,Michael L. Littman
+22.35294118,Michael Zakharyaschev
+21.82352941,Arnold W. M. Smeulders
+21.52941176,Terry M. Peters
+21.35294118,Arthur W. Toga
+19.17647059,Rosa M. Badia
+18.94117647,Peter M. A. Sloot
+18.82352941,Tom M. Mitchell
+18.47058824,Michael M. Bronstein
+17.52941176,Michael Thielscher
+17.47058824,Alexander M. Bronstein
+17.23529412,M. Brian Blake
+16.23529412,Michael Kifer
+15.94117647,Horst Bischof
+15.82352941,Michael H. Bowling
+15.35294118,Michael Winikoff
+15.17647059,Michael Felsberg
+14.58823529,Michael J. Pazzani
+14.29411765,Arthur H. M. ter Hofstede
+13.88235294,Joel Saltz
+13.05882353,Benoit M. Dawant
+12.82352941,Nicholas R. Jennings
+12.76470588,Moncef Gabbouj
+12.35294118,Frank Wolter
+12.23529412,Michael Fink
+11.94117647,Michael E. Papka
+11.70588235,Max A Viergever
+11.29411765,Thomas S. Huang
+11.29411765,M. Satyanarayanan
+10.76470588,Ian Foster
+10.58823529,Thomas Eiter
+10.58823529,K. Sycara
+10.52941176,Peter Stone
+10.41176471,Stephen M Smith
+10.17647059,Luca Benini
+10.17647059,Laura M. Haas
+10.11764706,Francisco M. Couto
+9.882352941,Latifur Khan
+9.764705882,Norman M. Sadeh
+9.705882353,Geert-Jan M. Kruijff
+9.588235294,Michael Strube
+9.470588235,Daniel Rueckert
+9.470588235,Wiro J. Niessen
+9.470588235,Simon K. Warfield
+9.352941176,Michael Kaminsky
+9.294117647,Alejandro F. Frangi
+9.176470588,J. Kittler
+9.058823529,Nassir Navab
+9.0,Gerhard Weikum
+8.882352941,Samuel Madden
+8.764705882,Janet M. Thornton
+8.647058824,Michael Isard
+8.470588235,Luc Van Gool
+8.176470588,Neda Jahanshad
+8.117647059,Miron Livny
+8.117647059,Sébastien Ourselin
+8.117647059,Greig I. De Zubicaray
+8.0,Margaret J. Wright
+7.882352941,Norman W. Paton
+7.882352941,John Dolan
+7.764705882,David Haussler
+7.764705882,Wolfram Burgard
+7.647058824,David Maier
+7.470588235,Hausi A. Müller
+7.470588235,John J. Leonard
+7.470588235,David Andersen
+7.235294118,Munindar P. Singh
+7.176470588,Bram van Ginneken
+7.176470588,P L Miller
+7.176470588,Jonathan Gratch
+7.117647059,david j dewitt
+7.117647059,Jack Dongarra
+6.882352941,A. Zisserman
+6.823529412,Michael Arens
+6.823529412,Simon Miles
+6.764705882,Michael T. Cox
+6.647058824,Ioannis Kompatsiaris
+6.647058824,Christopher M. Bishop
+6.588235294,Marcello La Rosa
+6.470588235,gregory provan
+6.352941176,Boudewijn F. van Dongen
+6.352941176,Anders M. Dale
+6.294117647,Erik M. Van Mulligen
+6.294117647,Joseph M. Reinhardt
+6.235294118,J. Michael Cherry
+6.235294118,Holger M. Kienle
+6.176470588,Frank Dignum
+6.117647059,Peter J. Stuckey
+6.058823529,Mark A. Neerincx
+5.941176471,Christos Faloutsos
+5.941176471,G M Shepherd
+5.941176471,Nicholas Ayache
+5.882352941,Sebastian Thrun
+5.823529412,Schahram Dustdar
+5.823529412,Geoff V. Merrett
+5.823529412,Mark A. Musen
+5.647058824,Gregory R. Ganger
+5.529411765,Roland Siegwart
+5.470588235,Michael zur Muehlen
+5.352941176,Andrew McCallum
+5.352941176,Katie L. Mcmahon
+5.352941176,Mateo Valero
+5.294117647,Phillip B. Gibbons
+5.294117647,Julia A Schnabel
+5.235294118,Klaus-Robert Müller
+5.235294118,Anant Madabhushi
+5.235294118,Alberto L. Sangiovanni-Vincentelli
+5.176470588,Steven J. M. Jones
+5.117647059,José E. Moreira
+5.117647059,Stephanie Seneff
+5.117647059,Gareth J. F. Jones
+5.058823529,Herbert M Sauro
+5.0,Martial Hebert
+5.0,C. Lee Giles
+5.0,Khan M. Iftekharuddin
+5.0,Abdul Sattar
+4.941176471,Jan Mendling
+4.882352941,Stefan Woltran
+4.882352941,Marleen de Bruijne
+4.882352941,Nikil D. Dutt
+4.882352941,Thomas E. Nichols
+4.823529412,Tim Kraska
+4.823529412,Wolfgang E. Nagel
+4.823529412,Bo Xing
+4.823529412,Joachim Hornegger
+4.823529412,hermann ney
+4.764705882,Francky Catthoor
+4.764705882,Edmund H. Durfee
+4.647058824,Daniel S. Katz
+4.647058824,M. Bernardine Dias
+4.588235294,Daniel M. Reeves
+4.588235294,Philip H.  S. Torr
+4.529411765,Marilyn A Walker
+4.470588235,Christos Davatzikos
+4.470588235,E Birney
+4.470588235,Barbara M. Smith
+4.470588235,Derek L G Hill
+4.411764706,Andrew Blake
+4.411764706,Peer Bork
+4.411764706,Nicholas G. Martin
+4.294117647,Vivek De
+4.235294118,Jean Bacon
+4.235294118,James C. Gee
+4.176470588,Virginia Dignum
+4.176470588,Bennett A. Landman
+4.176470588,John Mylopoulos
+4.176470588,Marc Modat
+4.176470588,Rolf Niedermeier
+4.176470588,Hongfang Liu
+4.117647059,Michael L Hines
+4.117647059,Hucka M
+4.117647059,Eric K. Clemons
+4.058823529,L. Darrell Whitley
+4.058823529,Manish Gupta
+4.058823529,Martín Abadi
+4.058823529,Simon Parsons
+4.058823529,Enrique J. Gómez
+4.0,M. Scott Marshall
+4.0,Kei-Hoi Cheung
+3.941176471,Joseph R. Cavallaro
+3.941176471,David Culler
+3.941176471,Massimiliano de Leoni
+3.941176471,Stefano Ceri
+3.941176471,Susan M. Bridges
+3.941176471,Alfonso Valencia
+3.941176471,Pradeep K. Dubey
+3.882352941,Stefan M. Wild
+3.882352941,Alon Y. Halevy
+3.882352941,Srinivasan Seshan
+3.823529412,António M. G. Pinheiro
+3.823529412,Alok N. Choudhary
+3.764705882,Gábor Székely
+3.764705882,Venkatram Vishwanath
+3.764705882,M Diekhans
+3.764705882,Justo Puerto
+3.764705882,Nicholas J. Belkin
+3.705882353,Naren Ramakrishnan
+3.705882353,Luca Maria Gambardella
+3.705882353,Adrian Perrig
+3.647058824,Poul M. F. Nielsen
+3.647058824,Henning Hermjakob
+3.647058824,Mitra Subhasish
+3.647058824,Karl M. Göschka
+3.647058824,Marian Bubak
+3.588235294,Stephen J. Roberts
+3.588235294,Birgitta König-Ries
+3.588235294,Vasileios Mezaris
+3.588235294,Sarit Kraus
+3.529411765,Dirk Fahland
+3.529411765,Toby Walsh
+3.529411765,Anastassia Ailamaki
+3.529411765,Yannis E. Ioannidis
+3.470588235,Steven M. Gallo
+3.470588235,Diederik M. Roijers
+3.470588235,W J Kent
+3.470588235,A. S. Tanenbaum
+3.470588235,Bronis R. de Supinski
+3.470588235,Jon M. Peha
+3.411764706,Fahad Shahbaz Khan
+3.411764706,Philip M. Papadopoulos
+3.411764706,Daniel Keysers
+3.411764706,Shuai Weng
+3.411764706,Oren Etzioni
+3.411764706,Yevgeniy Vorobeychik
+3.411764706,Andrew Y. Ng
+3.411764706,Steffen Staab
+3.411764706,Deborah L. McGuinness
+3.411764706,Manish Parashar
+3.411764706,César Hervás-Martínez
+3.411764706,Martin Styner
+3.411764706,Kurt Geihs
+3.352941176,Norha M. Villegas
+3.352941176,Amit P. Sheth
+3.352941176,Milind Tambe
+3.352941176,W. Bruce Croft
+3.352941176,Michael Sioutis
+3.352941176,Jianke Zhu
+3.352941176,Ian Miguel
+3.352941176,Carmel Domshlak
+3.352941176,Nasir Rajpoot
+3.294117647,Joseph A. Insley
+3.294117647,R Durbin
+3.294117647,Cristian Lorenz
+3.294117647,Michael J. Witbrock
+3.294117647,Gustavo Alonso
+3.235294118,Nicholas Roy
+3.235294118,Tao Jiang
+3.235294118,Saif M. Mohammad
+3.176470588,Paul W Sternberg
+3.176470588,Michael Benisch
+3.176470588,Carole Goble
+3.176470588,D Louis Collins
+3.176470588,Rajeev Thakur
+3.176470588,Bernt Schiele
+3.117647059,Michael Montemerlo
+3.117647059,Nick C Fox
+3.117647059,Gail Binkley
+3.117647059,Arnav Jhala
+3.117647059,Ross D. King
+3.117647059,Jeffrey D. Ullman
+3.117647059,Marin Litoiu
+3.117647059,Edith Elkind
+3.058823529,Yuriy Brun
+3.058823529,H. V. Jagadish
+3.058823529,Atsuo Takanishi
+3.058823529,Pedro C. Diniz
+3.058823529,Nathan S. Netanyahu
+3.058823529,Gary E. Christensen
+3.058823529,Houqiang Li
+3.0,Jeffrey S. Rosenschein
+3.0,Hans-Michael Müller
+3.0,Martin Rajchl
+3.0,Maarten de Rijke
+3.0,Roger K. Moore
+3.0,Frank van Harmelen
+2.941176471,Eva M. van Rikxoort
+2.941176471,John Prager
+2.941176471,Mark Riedl
+2.941176471,R M Kuhn
+2.941176471,Raghu Ramakrishnan
+2.941176471,Jim Gray
+2.941176471,Eric Horvitz
+2.941176471,Dan Wu
+2.941176471,P Flicek
+2.941176471,Fabio Rinaldi
+2.941176471,Eric A Hoffman
+2.941176471,Anthony P. Reeves
+2.882352941,Xavier Franch
+2.882352941,Michael Wu
+2.882352941,Alan R. Dennis
+2.882352941,Michael Y. Galperin
+2.882352941,Christine A. Orengo
+2.882352941,Jesus Labarta
+2.882352941,Rick L. Stevens
+2.823529412,Philip A. Bernstein
+2.823529412,Richard T. Watson
+2.823529412,Cees de Laat
+2.823529412,Anthony Stentz
+2.764705882,Federico M. Sukno
+2.764705882,Jan Peters
+2.764705882,A REISS
+2.764705882,Ré Christopher
+2.764705882,Artur S. D'avila Garcez
+2.764705882,Thomas Hofmann
+2.764705882,Gregor Engels
+2.764705882,John M. Hancock
+2.764705882,Shimon Whiteson
+2.764705882,Betty H. C. Cheng
+2.764705882,Leslie Pack Kaelbling
+2.764705882,Stephen Cranefield
+2.764705882,Philip Heidelberger
+2.705882353,Hans Tompits
+2.705882353,David Botstein
+2.705882353,Talal Rahwan
+2.705882353,Rolf Apweiler
+2.705882353,Joost van de Weijer
+2.705882353,Rocco A. Servedio
+2.647058824,Simone Paolo Ponzetto
+2.647058824,Moe Thandar Wynn
+2.647058824,D Karolchik
+2.647058824,Lincoln D Stein
+2.647058824,Peter T. Fox
+2.647058824,Ivo Wolf
+2.647058824,Freek Stulp
+2.647058824,John H. L. Hansen
+2.647058824,Karin Verspoor
+2.588235294,Dietmar Jannach
+2.588235294,William Stafford Noble
+2.588235294,Raymond T. Ngt
+2.588235294,Maurice Bruynooghe
+2.588235294,Henri E. Bal
+2.588235294,Joanna M Wardlaw
+2.588235294,Alan Evans
+2.588235294,Noam Nisan
+2.588235294,Thomas Krennwallner
+2.588235294,Ralph R. Martin
+2.529411765,Hiroaki Kitano
+2.529411765,M Schuster
+2.529411765,Sonia Chernova
+2.529411765,G Sherlock
+2.529411765,Joseph E. Gonzalez
+2.529411765,Matei Zaharia
+2.529411765,Arkadii M. Slinko
+2.529411765,Martin L. Kersten
+2.529411765,Pedro Domingos
+2.529411765,Danny Weyns
+2.529411765,M L Ginsberg
+2.529411765,M Stefanelli
+2.529411765,Ernesto Damiani
+2.470588235,Yolanda Gil
+2.470588235,Eurie L. Hong
+2.470588235,David W. Aha
+2.470588235,Carlos Delgado Kloos
+2.470588235,Eduard H. Hovy
+2.470588235,David De Roure
+2.470588235,Margo Seltzer
+2.470588235,Cristina Silvano
+2.470588235,Nevin .L Zhang
+2.470588235,Tom Vercauteren
+2.411764706,Nathan R. Sturtevant
+2.411764706,Mark Dredze
+2.411764706,Joos C. A. M. Buijs
+2.411764706,Christopher K. I. Williams
+2.411764706,William Whittaker
+2.411764706,Jan Vanthienen
+2.411764706,John Shawe-Taylor
+2.411764706,Ian Horrocks
+2.411764706,Diego Calvanese
+2.411764706,Bernhard Nebel
+2.411764706,Tobias Hildenbrand
+2.352941176,Nanja J. J. M. Smets
+2.352941176,Eduardo B. Fernandez
+2.352941176,Tuan Pham
+2.352941176,D Smedley
+2.352941176,Christoph M. Flath
+2.352941176,Ronald Veldema
+2.352941176,Karl Tuyls
+2.352941176,Kimberly Van Auken
+2.352941176,Serge Abiteboul
+2.352941176,polina golland
+2.352941176,Moshe Y. Vardi
+2.352941176,Dimitra Simeonidou
+2.352941176,Mathias Prokop
+2.352941176,et al.
+2.352941176,Andreas Bender
+2.352941176,Xavier Pennec
+2.352941176,William E. Walsh
+2.352941176,Emilio Frazzoli
+2.352941176,M. Anis
+2.352941176,Sridha Sridharan
+2.294117647,Dennis Koelma
+2.294117647,Stacia Engel
+2.294117647,Casey M Bergman
+2.294117647,Kevin M. Carter
+2.294117647,Selina S. Dwight
+2.294117647,Georg Gottlob
+2.294117647,Bertram Ludäscher
+2.294117647,Jesús M de la Cruz
+2.294117647,Martin Schulz
+2.294117647,Jean-Yves Tourneret
+2.235294118,Kara Dolinski
+2.235294118,Jessica A. Turner
+2.235294118,Andreas Prlic
+2.235294118,John Shalf
+2.235294118,M. Six Silberman
+2.235294118,Grigoris Antoniou
+2.235294118,A S Zweig
+2.235294118,Fabrizio Maria Maggi
+2.235294118,Nicolas Le Novère
+2.235294118,Adam Belloum
+2.235294118,Kathrin Klamroth
+2.235294118,Pradip Bose
+2.235294118,Man-Wai Mak
+2.235294118,David C. Parkes
+2.235294118,Victor Lesser
+2.235294118,Hunter P J
+2.235294118,Christof Weinhardt
+2.235294118,Max A. Viergever
+2.176470588,Janan T. Eppig
+2.176470588,Hendrik Zender
+2.176470588,Maria C. Costanzo
+2.176470588,Giorgio Metta
+2.176470588,Lynette Hirschman
+2.176470588,Jeffrey S. Dean
+2.176470588,Zhiyong Lu
+2.176470588,E. Huedo
+2.176470588,David C. Van Essen
+2.176470588,David S. Wishart
+2.176470588,Umberto Castellani
+2.176470588,Wolfgang Ecker
+2.176470588,M. Elena Hernando
+2.176470588,Dan Roth
+2.176470588,Jalal Fadili
+2.176470588,Rudi Studer
+2.176470588,Allan Hanbury
+2.176470588,Jiebo Luo
+2.176470588,Achim Streit
+2.176470588,J. Abraham
+2.176470588,Hani Hagras
+2.176470588,Mikel L. Forcada
+2.176470588,Carlos Guestrin
+2.117647059,Vitaly Lagoon
+2.117647059,David Kennedy
+2.117647059,Mark Hereld
+2.117647059,Shawn Bowers
+2.117647059,Thomas R. Furlani
+2.117647059,Xavier Martorell
+2.117647059,Christopher Jefferson
+2.117647059,Henning Müller
+2.117647059,K R Rosenbloom
+2.117647059,Peter Bailis
+2.117647059,Rakesh Agrawal
+2.117647059,Judith A. Blake
+2.117647059,Daphne Koller
+2.117647059,Shane C. Burgess
+2.117647059,Alain Destexhe
+2.117647059,Mounia Lalmas
+2.117647059,Luc Moreau
+2.117647059,Brian B. Avants
+2.117647059,Joao Marques-Silva
+2.117647059,Óscar Corcho
+2.117647059,Joseph S. Valacich
+2.058823529,Piotr Faliszewski
+2.058823529,Casimir Kulikowski
+2.058823529,W. John Wilbur
+2.058823529,Luís C. Lamb
+2.058823529,Diogo R. Ferreira
+2.058823529,H Clawson
+2.058823529,Robert M MacCallum
+2.058823529,Heidi Johansen-Berg
+2.058823529,Julio Collado-vides
+2.058823529,G P Barber
+2.058823529,Oswaldo Trelles
+2.058823529,Jürgen Schmidhuber
+2.058823529,Udo Hahn
+2.058823529,Heinrich Meyr
+2.058823529,Reagan Moore
+2.058823529,Gregor Von Laszewski
+2.058823529,Ben Glocker
+2.058823529,Chitta Baral
+2.058823529,Dawn Song
+2.058823529,Wamberto Weber Vasconcelos
+2.058823529,Arnon Amir
+2.058823529,Danelljan Martin
+2.058823529,Bonnie J. Dorr
+2.0,Rama Balakrishnan
+2.0,B J Raney
+2.0,Andrew A. Chien
+2.0,Cuong Tran
+2.0,Robert W. Wisniewski
+2.0,Alonzo Kelly
+2.0,Noel E. O'Connor
+2.0,David C. Glahn
+2.0,Ewa Deelman
+2.0,Paola Inverardi
+2.0,Juancarlos Chan
+2.0,Georg Langs
+2.0,J. Andrew Bagnell
+2.0,T J P Hubbard
+2.0,Russell Greiner
+2.0,Jie Chen
+2.0,Jason Leigh
+2.0,Ian P. Gent
+2.0,Theo Ungerer
+2.0,Mark H. Burstein
+2.0,Antonis C. Kakas
+1.941176471,Michael Fairhurst
+1.941176471,Richard McClatchey
+1.941176471,Frank Bergmann
+1.941176471,Josep Carmona
+1.941176471,Bjoern H Menze
+1.941176471,Thomas G. Dietterich
+1.941176471,Kristian Rother
+1.941176471,D. Joseph
+1.941176471,Serafim Batzoglou
+1.941176471,Giorgio A. Ascoli
+1.941176471,Enrico Franconi
+1.941176471,Paulo F. Pires
+1.941176471,David Leeuwen
+1.941176471,Arjan Kuijper
+1.941176471,Dragomir Radev
+1.941176471,Djoerd Hiemstra
+1.941176471,R. Manmatha
+1.941176471,Paul Groth
+1.941176471,Pedro Gómez Vilda
+1.882352941,Cliff Young
+1.882352941,Tran Cao Son
+1.882352941,R A Harte
+1.882352941,Thomas Mauthner
+1.882352941,James F. Brinkley
+1.882352941,Melissa S. Cline
+1.882352941,Wendell D. Jones
+1.882352941,R. P. Jagadeesh Chandra Bose
+1.882352941,Rudy Hirschheim
+1.882352941,Yoshua Bengio
+1.882352941,Michael C Schatz
+1.882352941,ebroul izquierdo
+1.882352941,Carla P. Gomes
+1.882352941,Brahim Hnich
+1.882352941,William D. Gropp
+1.882352941,G BARKER
+1.882352941,dietrich rebholzschuhmann
+1.882352941,Tom Rodden
+1.882352941,Stefan Szeider
+1.882352941,Erwin Laure
+1.882352941,Paul E. Rybski
+1.882352941,Aaron D. Ames
+1.882352941,Twan Basten
+1.882352941,Sven Koenig
+1.882352941,David E. Shaw

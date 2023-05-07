@@ -1,0 +1,544 @@
+source,target
+Stephen M Smith,Ben Glocker
+Stephen M Smith,Wiro J. Niessen
+Stephen M Smith,Clare Mackay
+Stephen M Smith,Daniel Rueckert
+Stephen M Smith,Derek L G Hill
+Stephen M Smith,Saad Jbabdi
+Stephen M Smith,Heidi Johansen-Berg
+Stephen M Smith,David C. Van Essen
+Stephen M Smith,Paul Thompson
+Stephen M Smith,Joseph Hajnal
+Stephen M Smith,Kamil Ugurbil
+Stephen M Smith,Essa Yacoub
+Stephen M Smith,David C. Glahn
+Stephen M Smith,David Kennedy
+Stephen M Smith,Gael Varoquaux
+Stephen M Smith,Julia A Schnabel
+Stephen M Smith,Peter T. Fox
+Stephen M Smith,Thomas E. Nichols
+Stephen M Smith,Jessica A. Turner
+Stephen M Smith,Andrea Vedaldi
+Joyce A. Mitchell,F Sanz
+Joyce A. Mitchell,Victor Maojo
+Joyce A. Mitchell,Olivier Bodenreider
+Joyce A. Mitchell,Casimir Kulikowski
+Joyce A. Mitchell,Luciano Milanesi
+Michael Stonebraker,david j dewitt
+Michael Stonebraker,Akhil Kumar
+Michael Stonebraker,Peter Bailis
+Michael Stonebraker,Anastassia Ailamaki
+Michael Stonebraker,Eduardo B. Fernandez
+Michael Stonebraker,Alon Y. Halevy
+Michael Stonebraker,Michael J. Carey
+Michael Stonebraker,Stefano Ceri
+Michael Stonebraker,Laura M. Haas
+Michael Stonebraker,Rakesh Agrawal
+Michael Stonebraker,Tim Kraska
+Michael Stonebraker,Jimeng Sun
+Michael Stonebraker,Juliana Freire
+Michael Stonebraker,Jeffrey D. Ullman
+Michael Stonebraker,David Maier
+Michael Stonebraker,Michael J. Franklin
+Michael Stonebraker,Yannis E. Ioannidis
+Michael Stonebraker,Timos K. Sellis
+Michael Stonebraker,Jim Gray
+Michael Stonebraker,Moshe Y. Vardi
+Michael Stonebraker,Gerhard Weikum
+Michael Stonebraker,Nicholas J. Belkin
+Michael Stonebraker,Samuel Madden
+Michael Stonebraker,Philip A. Bernstein
+Michael Stonebraker,Margo Seltzer
+Michael Stonebraker,H. V. Jagadish
+Michael Stonebraker,Hector Garcia-Molina
+Michael Stonebraker,Avi Silberschatz
+Michael Stonebraker,Pradeep K. Dubey
+Michael Stonebraker,Joseph M. Hellerstein
+Michael Stonebraker,Raghu Ramakrishnan
+Mark A. Musen,Deborah L. McGuinness
+Mark A. Musen,David L. Buckeridge
+Mark A. Musen,Hongfang Liu
+Mark A. Musen,James F. Brinkley
+Mark A. Musen,Michel Dumontier
+Mark A. Musen,Mark D Wilkinson
+Mark A. Musen,Robert Stevens
+Mark A. Musen,Marin Litoiu
+Mark A. Musen,Casimir Kulikowski
+Mark A. Musen,Kimberly Van Auken
+Mark A. Musen,Kei-Hoi Cheung
+Mark A. Musen,Rudi Studer
+Mark A. Musen,Frank van Harmelen
+Mark A. Musen,Yolanda Gil
+Mark A. Musen,Enrico Franconi
+Mark A. Musen,Chitta Baral
+Norman W. Paton,Georg Gottlob
+Norman W. Paton,Paolo Missier
+Norman W. Paton,Tom Rodden
+Norman W. Paton,Geoffrey Fox
+Norman W. Paton,David De Roure
+Norman W. Paton,Terri K. Attwood
+Norman W. Paton,Reagan Moore
+Norman W. Paton,Ewa Deelman
+Norman W. Paton,Manolis Koubarakis
+Norman W. Paton,Henning Hermjakob
+Norman W. Paton,Carole Goble
+Norman W. Paton,Robert Stevens
+Norman W. Paton,M Nedim Alpdemir
+Norman W. Paton,Enrico Franconi
+Norman W. Paton,Michael Luck
+Norman W. Paton,dietrich rebholzschuhmann
+Norman W. Paton,Christine A. Orengo
+Norman W. Paton,Óscar Corcho
+Yannis E. Ioannidis,Craig A. Knoblock
+Yannis E. Ioannidis,Jim Gray
+Yannis E. Ioannidis,Diego Calvanese
+Yannis E. Ioannidis,david j dewitt
+Yannis E. Ioannidis,Christos Faloutsos
+Yannis E. Ioannidis,Gerhard Weikum
+Yannis E. Ioannidis,W. Bruce Croft
+Yannis E. Ioannidis,Anastassia Ailamaki
+Yannis E. Ioannidis,Samuel Madden
+Yannis E. Ioannidis,Philip A. Bernstein
+Yannis E. Ioannidis,Erwin Laure
+Yannis E. Ioannidis,Raymond T. Ngt
+Yannis E. Ioannidis,Alon Y. Halevy
+Yannis E. Ioannidis,Michael J. Carey
+Yannis E. Ioannidis,Stefano Ceri
+Yannis E. Ioannidis,Laura M. Haas
+Yannis E. Ioannidis,Rakesh Agrawal
+Yannis E. Ioannidis,Jennifer Widom
+Yannis E. Ioannidis,Manolis Koubarakis
+Yannis E. Ioannidis,Serge Abiteboul
+Yannis E. Ioannidis,Ian Horrocks
+Yannis E. Ioannidis,H. V. Jagadish
+Yannis E. Ioannidis,Jeffrey D. Ullman
+Yannis E. Ioannidis,Hector Garcia-Molina
+Yannis E. Ioannidis,David Maier
+Yannis E. Ioannidis,Avi Silberschatz
+Yannis E. Ioannidis,Martin L. Kersten
+Yannis E. Ioannidis,Michael J. Franklin
+Yannis E. Ioannidis,Joseph M. Hellerstein
+Yannis E. Ioannidis,Raghu Ramakrishnan
+Yannis E. Ioannidis,Miron Livny
+Yannis E. Ioannidis,Michael J. Pazzani
+Yannis E. Ioannidis,Timos K. Sellis
+Theo Ungerer,Mateo Valero
+Theo Ungerer,Rosa M. Badia
+Theo Ungerer,François Bodin
+Theo Ungerer,Kurt Geihs
+Gerhard Weikum,Craig A. Knoblock
+Gerhard Weikum,david j dewitt
+Gerhard Weikum,Anastassia Ailamaki
+Gerhard Weikum,Alon Y. Halevy
+Gerhard Weikum,Michael J. Carey
+Gerhard Weikum,Stefano Ceri
+Gerhard Weikum,Laura M. Haas
+Gerhard Weikum,Rakesh Agrawal
+Gerhard Weikum,Jennifer Widom
+Gerhard Weikum,Juliana Freire
+Gerhard Weikum,Jeffrey D. Ullman
+Gerhard Weikum,David Maier
+Gerhard Weikum,Michael J. Franklin
+Gerhard Weikum,Philipp Cimiano
+Gerhard Weikum,Djoerd Hiemstra
+Gerhard Weikum,Norbert Fuhr
+Gerhard Weikum,Timos K. Sellis
+Gerhard Weikum,Jim Gray
+Gerhard Weikum,W. Bruce Croft
+Gerhard Weikum,Lise Getoor
+Gerhard Weikum,Samuel Madden
+Gerhard Weikum,Philip A. Bernstein
+Gerhard Weikum,Oren Etzioni
+Gerhard Weikum,Gustavo Alonso
+Gerhard Weikum,Manolis Koubarakis
+Gerhard Weikum,Serge Abiteboul
+Gerhard Weikum,Hector Garcia-Molina
+Gerhard Weikum,Avi Silberschatz
+Gerhard Weikum,Martin L. Kersten
+Gerhard Weikum,Joseph M. Hellerstein
+Gerhard Weikum,Raghu Ramakrishnan
+Gerhard Weikum,Amit P. Sheth
+Gerhard Weikum,Michael J. Pazzani
+Jon Doyle,Thomas G. Dietterich
+Jon Doyle,Carla P. Gomes
+Jon Doyle,Mark H. Burstein
+Jon Doyle,Eric Horvitz
+Jon Doyle,Toby Walsh
+Jon Doyle,Munindar P. Singh
+Jon Doyle,Karen Zita Haigh
+Jon Doyle,Rudi Studer
+Jon Doyle,Bamshad Mobasher
+Jon Doyle,Michael P. Wellman
+Jon Doyle,M. Brian Blake
+Jon Doyle,Simon Parsons
+Jon Doyle,Chitta Baral
+Jon Doyle,David V. Pynadath
+Jon Doyle,Thomas Roth-berghofer
+Jon Doyle,Gal A. Kaminka
+Jon Doyle,Dietmar Jannach
+Jan Mendling,Jörg Hoffmann
+Jan Mendling,Michael zur Muehlen
+Jan Mendling,Jorge Munoz-Gama
+Jan Mendling,Anne Rozinat
+Jan Mendling,Wil M. P. van der Aalst
+Jan Mendling,Alessandro Sperduti
+Jan Mendling,Boudewijn F. van Dongen
+Jan Mendling,Massimiliano de Leoni
+Jan Mendling,Christian W. Günther
+Jan Mendling,Diogo R. Ferreira
+Jan Mendling,Akhil Kumar
+Jan Mendling,Fabrizio Maria Maggi
+Jan Mendling,Michael Westergaard
+Jan Mendling,Munindar P. Singh
+Jan Mendling,Eric Verbeek
+Jan Mendling,Schahram Dustdar
+Jan Mendling,Moe Thandar Wynn
+Jan Mendling,Simone Paolo Ponzetto
+Jan Mendling,Josep Carmona
+Jan Mendling,Marco Montali
+Jan Mendling,Jan Vanthienen
+Jan Mendling,Arthur H. M. ter Hofstede
+Jan Mendling,Gregor Engels
+Jan Mendling,Luciano Baresi
+Jan Mendling,R. S. Mans
+Jan Mendling,Dirk Fahland
+Jan Mendling,Ernesto Damiani
+Jan Mendling,Christof Weinhardt
+Jan Mendling,R. P. Jagadeesh Chandra Bose
+Jan Mendling,Joos C. A. M. Buijs
+Jan Mendling,Marcello La Rosa
+Daniel S. Weld,Peter J. Stuckey
+Daniel S. Weld,Craig A. Knoblock
+Daniel S. Weld,Georg Gottlob
+Daniel S. Weld,Joseph Y. Halpern
+Daniel S. Weld,Moshe Tennenholtz
+Daniel S. Weld,Daphne Koller
+Daniel S. Weld,César Hervás-Martínez
+Daniel S. Weld,Luc Moreau
+Daniel S. Weld,Eric Horvitz
+Daniel S. Weld,L. Darrell Whitley
+Daniel S. Weld,Oren Etzioni
+Daniel S. Weld,Adele E. Howe
+Daniel S. Weld,Steffen Staab
+Daniel S. Weld,Michael P. Wellman
+Daniel S. Weld,Pedro Domingos
+Daniel S. Weld,Nicholas R. Jennings
+Daniel S. Weld,Marilyn A Walker
+Daniel S. Weld,Alon Y. Halevy
+Daniel S. Weld,Dan Roth
+Daniel S. Weld,Thomas G. Dietterich
+Daniel S. Weld,Henry A. Kautz
+Daniel S. Weld,Dimitris Achlioptas
+Daniel S. Weld,Regina Barzilay
+Daniel S. Weld,Ian Horrocks
+Daniel S. Weld,Rocco A. Servedio
+Daniel S. Weld,Vitaly Lagoon
+Daniel S. Weld,Philipp Cimiano
+Sergios Theodoridis,C. Kotropoulos
+Sergios Theodoridis,Ioannis Pitas
+Sergios Theodoridis,Klaus-Robert Müller
+Diego Calvanese,Abdul Sattar
+Diego Calvanese,Peter J. Stuckey
+Diego Calvanese,Georg Gottlob
+Diego Calvanese,Moshe Y. Vardi
+Diego Calvanese,Deborah L. McGuinness
+Diego Calvanese,Ian P. Gent
+Diego Calvanese,Wil M. P. van der Aalst
+Diego Calvanese,Marco Cadoli
+Diego Calvanese,Balaraman Ravindran
+Diego Calvanese,Fabrizio Maria Maggi
+Diego Calvanese,Vincent Conitzer
+Diego Calvanese,Stefan Szeider
+Diego Calvanese,Michael Zakharyaschev
+Diego Calvanese,Nicholas R. Jennings
+Diego Calvanese,umberto straccia
+Diego Calvanese,Bonnie J. Dorr
+Diego Calvanese,Stefano Ceri
+Diego Calvanese,Shimon Whiteson
+Diego Calvanese,Christopher Jefferson
+Diego Calvanese,Jesús M de la Cruz
+Diego Calvanese,Manolis Koubarakis
+Diego Calvanese,Michael Kifer
+Diego Calvanese,Thomas Eiter
+Diego Calvanese,Ian Miguel
+Diego Calvanese,Serge Abiteboul
+Diego Calvanese,Regina Barzilay
+Diego Calvanese,Carmel Domshlak
+Diego Calvanese,Ian Horrocks
+Diego Calvanese,Saif M. Mohammad
+Diego Calvanese,Enrico Franconi
+Diego Calvanese,Milind Tambe
+Diego Calvanese,David C. Parkes
+Diego Calvanese,Dragomir Radev
+Diego Calvanese,A. Rogers
+Diego Calvanese,Marco Montali
+Diego Calvanese,Enrico H. Gerding
+Diego Calvanese,Diederik M. Roijers
+Deborah L. McGuinness,Matthias Samwald
+Deborah L. McGuinness,Olivier Bodenreider
+Deborah L. McGuinness,M. Scott Marshall
+Deborah L. McGuinness,Paul E. Rybski
+Deborah L. McGuinness,Mark H. Burstein
+Deborah L. McGuinness,Ashwin Ram
+Deborah L. McGuinness,Lynn M. Schriml
+Deborah L. McGuinness,K. Sycara
+Deborah L. McGuinness,Timothy W. Finin
+Deborah L. McGuinness,Michel Dumontier
+Deborah L. McGuinness,Carole Goble
+Deborah L. McGuinness,Mark D Wilkinson
+Deborah L. McGuinness,Bernhard Nebel
+Deborah L. McGuinness,Weng-Keen Wong
+Deborah L. McGuinness,Eric Horvitz
+Deborah L. McGuinness,David De Roure
+Deborah L. McGuinness,Michael I. Jordan
+Deborah L. McGuinness,Victor Lesser
+Deborah L. McGuinness,Frank van Harmelen
+Deborah L. McGuinness,Thomas G. Dietterich
+Deborah L. McGuinness,Diana F. Spears
+Deborah L. McGuinness,Ian Horrocks
+Deborah L. McGuinness,Fiora Pirri
+Deborah L. McGuinness,Jun Zhao
+Deborah L. McGuinness,Geert-Jan M. Kruijff
+Deborah L. McGuinness,Enrico Franconi
+Deborah L. McGuinness,Milind Tambe
+Deborah L. McGuinness,Chitta Baral
+Jack Dongarra,Rick L. Stevens
+Jack Dongarra,Mark Hereld
+Jack Dongarra,Robert W. Wisniewski
+Jack Dongarra,Manish Parashar
+Jack Dongarra,Marian Bubak
+Jack Dongarra,Mitsuhisa Sato
+Jack Dongarra,Gabrielle Allen
+Jack Dongarra,William D. Gropp
+Jack Dongarra,John Shalf
+Jack Dongarra,Franz Franchetti
+Jack Dongarra,Geoffrey Fox
+Jack Dongarra,Daniel A. Reed
+Jack Dongarra,Peter M. A. Sloot
+Jack Dongarra,David Abramson
+Jack Dongarra,Michael E. Papka
+Jack Dongarra,Bronis R. de Supinski
+Jack Dongarra,"Bader, David A."
+Jack Dongarra,Mateo Valero
+Jack Dongarra,Rajeev Thakur
+Jack Dongarra,Ian Foster
+Jack Dongarra,Rosa M. Badia
+Jack Dongarra,David E. Keyes
+Jack Dongarra,Ewa Deelman
+Jack Dongarra,"Vetter, Jeffrey"
+Jack Dongarra,Gael Varoquaux
+Jack Dongarra,Alok N. Choudhary
+Jack Dongarra,Jesus Labarta
+Jack Dongarra,Christos Faloutsos
+Jack Dongarra,Theresa L. Windus
+Jack Dongarra,Wolfgang E. Nagel
+Jack Dongarra,Francine Berman
+Jack Dongarra,Carl Kesselman
+Jack Dongarra,Pavan Balaji
+Jack Dongarra,Andrew A. Chien
+Jack Dongarra,Henri E. Bal
+Jack Dongarra,Joseph E. Gonzalez
+Jack Dongarra,Omer F. Rana
+Jack Dongarra,Joel Saltz
+Miron Livny,Rick L. Stevens
+Miron Livny,Joseph A. Insley
+Miron Livny,Conrad Steenberg
+Miron Livny,Luc Moreau
+Miron Livny,Geoffrey Fox
+Miron Livny,Anastassia Ailamaki
+Miron Livny,Nancy Wilkins-Diehr
+Miron Livny,Daniel A. Reed
+Miron Livny,Reagan Moore
+Miron Livny,Ian Foster
+Miron Livny,Julian J. Bunn
+Miron Livny,Harvey B. Newman
+Miron Livny,Francine Berman
+Miron Livny,Ewa Deelman
+Miron Livny,Carl Kesselman
+Miron Livny,Michael J. Carey
+Miron Livny,Laura M. Haas
+Miron Livny,Rakesh Agrawal
+Miron Livny,Michael A. McRobbie
+Miron Livny,Michael E. Papka
+Miron Livny,Carole Goble
+Miron Livny,Yolanda Gil
+Miron Livny,Michael J. Franklin
+Miron Livny,Raghu Ramakrishnan
+Miron Livny,Sebastien Goasguen
+Maurice Bruynooghe,Peter J. Stuckey
+Maurice Bruynooghe,Lane A. Hemaspaandra
+Maurice Bruynooghe,Brahim Hnich
+Maurice Bruynooghe,Moshe Tennenholtz
+Maurice Bruynooghe,Nevin .L Zhang
+Maurice Bruynooghe,Francky Catthoor
+Maurice Bruynooghe,Nathan S. Netanyahu
+Maurice Bruynooghe,Daniel M. Reeves
+Maurice Bruynooghe,Daphne Koller
+Maurice Bruynooghe,Holger H. Hoos
+Maurice Bruynooghe,Noam Nisan
+Maurice Bruynooghe,Karl Tuyls
+Maurice Bruynooghe,Stefan Szeider
+Maurice Bruynooghe,Michael P. Wellman
+Maurice Bruynooghe,Piotr Faliszewski
+Maurice Bruynooghe,Michael Fink
+Maurice Bruynooghe,Allan Borodin
+Maurice Bruynooghe,Shimon Whiteson
+Maurice Bruynooghe,Barbara M. Smith
+Maurice Bruynooghe,Minh Dao-Tran
+Maurice Bruynooghe,Thomas Eiter
+Maurice Bruynooghe,Carmel Domshlak
+Maurice Bruynooghe,Kevin M. Lochner
+Maurice Bruynooghe,Yevgeniy Vorobeychik
+Maurice Bruynooghe,Thomas Krennwallner
+Maurice Bruynooghe,M L Ginsberg
+Maurice Bruynooghe,Ariel Felner
+Maurice Bruynooghe,Ran El-Yaniv
+Maurice Bruynooghe,David Poole
+Maurice Bruynooghe,Diederik M. Roijers
+M L Ginsberg,Shimon Whiteson
+M L Ginsberg,Henning S. Mortveit
+M L Ginsberg,Barbara M. Smith
+M L Ginsberg,Andrew Moore
+M L Ginsberg,Georg Gottlob
+M L Ginsberg,Thomas G. Dietterich
+M L Ginsberg,Jörg Hoffmann
+M L Ginsberg,Ian P. Gent
+M L Ginsberg,Sebastian Thrun
+M L Ginsberg,Lane A. Hemaspaandra
+M L Ginsberg,Sarvapali D. Ramchurn
+M L Ginsberg,Henry A. Kautz
+M L Ginsberg,Joseph Y. Halpern
+M L Ginsberg,Brahim Hnich
+M L Ginsberg,Moshe Tennenholtz
+M L Ginsberg,Simone Paolo Ponzetto
+M L Ginsberg,Carmel Domshlak
+M L Ginsberg,David W. Aha
+M L Ginsberg,Ian Horrocks
+M L Ginsberg,Nevin .L Zhang
+M L Ginsberg,Kevin M. Lochner
+M L Ginsberg,Nathan S. Netanyahu
+M L Ginsberg,Daphne Koller
+M L Ginsberg,Daniel M. Reeves
+M L Ginsberg,Holger H. Hoos
+M L Ginsberg,Carlos Guestrin
+M L Ginsberg,Yevgeniy Vorobeychik
+M L Ginsberg,Ariel Felner
+M L Ginsberg,Noam Nisan
+M L Ginsberg,Bernhard Nebel
+M L Ginsberg,Leslie Pack Kaelbling
+M L Ginsberg,Jeffrey S. Rosenschein
+M L Ginsberg,Milind Tambe
+M L Ginsberg,Daniele Magazzeni
+M L Ginsberg,Wolfram Burgard
+M L Ginsberg,Peter D. Turney
+M L Ginsberg,Michael P. Wellman
+M L Ginsberg,Piotr Faliszewski
+M L Ginsberg,Ran El-Yaniv
+M L Ginsberg,Sarit Kraus
+M L Ginsberg,Nicholas R. Jennings
+M L Ginsberg,umberto straccia
+M L Ginsberg,Patrick Pantel
+M L Ginsberg,David Poole
+M L Ginsberg,Paul Beame
+M L Ginsberg,Allan Borodin
+M L Ginsberg,Diederik M. Roijers
+Andreas Bender,Artem Cherkasov
+Toby Walsh,Peter J. Stuckey
+Toby Walsh,Ian P. Gent
+Toby Walsh,Michael J. Witbrock
+Toby Walsh,Rolf Niedermeier
+Toby Walsh,Brahim Hnich
+Toby Walsh,Holger H. Hoos
+Toby Walsh,Vincent Conitzer
+Toby Walsh,Eric Horvitz
+Toby Walsh,Kevin M. Carter
+Toby Walsh,David L. Buckeridge
+Toby Walsh,Jeffrey S. Rosenschein
+Toby Walsh,Jeffrey O. Kephart
+Toby Walsh,Karen Zita Haigh
+Toby Walsh,Piotr Faliszewski
+Toby Walsh,Peter Stone
+Toby Walsh,Michael Fink
+Toby Walsh,Dan Roth
+Toby Walsh,Barbara M. Smith
+Toby Walsh,Stuart J. Russell
+Toby Walsh,Thomas Eiter
+Toby Walsh,Thomas G. Dietterich
+Toby Walsh,Ian Miguel
+Toby Walsh,Carla P. Gomes
+Toby Walsh,Carmel Domshlak
+Toby Walsh,Thomas Krennwallner
+Toby Walsh,Tran Cao Son
+Toby Walsh,Daniele Magazzeni
+Toby Walsh,Manuela M. Veloso
+Toby Walsh,Edith Elkind
+Toby Walsh,C. Lee Giles
+Toby Walsh,Sven Koenig
+Toby Walsh,M. Brian Blake
+Toby Walsh,Simon Parsons
+Toby Walsh,Chitta Baral
+Toby Walsh,Michael L. Littman
+Toby Walsh,Joao Marques-Silva
+Gustavo Alonso,Gregory R. Ganger
+Gustavo Alonso,Jeffrey S. Dean
+Gustavo Alonso,Peter Bailis
+Gustavo Alonso,Alexandros G. Dimakis
+Gustavo Alonso,Ameet Talwalkar
+Gustavo Alonso,Phillip B. Gibbons
+Gustavo Alonso,Lise Getoor
+Gustavo Alonso,Samuel Madden
+Gustavo Alonso,Matei Zaharia
+Gustavo Alonso,Michael I. Jordan
+Gustavo Alonso,Ré Christopher
+Gustavo Alonso,Maarten van Steen
+Gustavo Alonso,Alon Y. Halevy
+Gustavo Alonso,Laura M. Haas
+Gustavo Alonso,Dawn Song
+Gustavo Alonso,Jennifer Widom
+Gustavo Alonso,Tim Kraska
+Gustavo Alonso,Joseph E. Gonzalez
+Gustavo Alonso,Pradeep K. Dubey
+Gustavo Alonso,Martin L. Kersten
+Gustavo Alonso,Michael J. Franklin
+Gustavo Alonso,Bo Xing
+Gustavo Alonso,Derek Gordon Murray
+Enrico Franconi,Frank Wolter
+Enrico Franconi,Shimon Whiteson
+Enrico Franconi,Jesús M de la Cruz
+Enrico Franconi,Georg Gottlob
+Enrico Franconi,Grigoris Antoniou
+Enrico Franconi,Michael Kifer
+Enrico Franconi,Thomas Eiter
+Enrico Franconi,Maarten de Rijke
+Enrico Franconi,Carmel Domshlak
+Enrico Franconi,Ian Horrocks
+Enrico Franconi,Carole Goble
+Enrico Franconi,Bernhard Nebel
+Enrico Franconi,Milind Tambe
+Enrico Franconi,Michael Zakharyaschev
+Enrico Franconi,David C. Parkes
+Enrico Franconi,A. Rogers
+Enrico Franconi,Nicholas R. Jennings
+Enrico Franconi,Enrico H. Gerding
+Enrico Franconi,umberto straccia
+Enrico Franconi,Frank van Harmelen
+Enrico Franconi,Diederik M. Roijers
+Enrico Franconi,Alon Y. Halevy
+Nicholas Ayache,Ben Glocker
+Nicholas Ayache,Brian B. Avants
+Nicholas Ayache,Max A Viergever
+Nicholas Ayache,Nikos Paragios
+Nicholas Ayache,Derek L G Hill
+Nicholas Ayache,Doina Precup
+Nicholas Ayache,Maria A. Zuluaga
+Nicholas Ayache,Gábor Székely
+Nicholas Ayache,Cristian Lorenz
+Nicholas Ayache,Marius Staring
+Nicholas Ayache,Mattias P. Heinrich
+Nicholas Ayache,D Louis Collins
+Nicholas Ayache,Joseph M. Reinhardt
+Nicholas Ayache,James C. Gee
+Nicholas Ayache,Jason J. Corso
+Nicholas Ayache,Bjoern H Menze
+Nicholas Ayache,Jayashree Kalpathy-Cramer
+Nicholas Ayache,Xavier Pennec
